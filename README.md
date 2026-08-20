@@ -17,10 +17,9 @@ Architected and deployed a custom Customer Relationship Management (CRM) web app
 * **Data Portability:** Engineered custom import/export functions allowing the client to seamlessly migrate database records to and from Excel.
 
 ## Application Interface (Demo Data)
-
-*(Upload your demo screenshots to your GitHub repo, then add them below using this format: `![Description of image](./path-to-image.png)`)*
-
-![Dashboard Example](./path-to-your-dashboard-image.png)
-![Directory Example](./path-to-your-directory-image.png)
-![Contact Detail Example](./path-to-your-contact-modal-image.png)
-
+![LogIn Example]("C:\Users\ericv\OneDrive\Pictures\Screenshots\crm6.png")
+![Dashboard Example]("C:\Users\ericv\OneDrive\Pictures\Screenshots\crm1.png")
+![Directory Example]("C:\Users\ericv\OneDrive\Pictures\Screenshots\crm2.png")
+![Adding Contact Tab Example]("C:\Users\ericv\OneDrive\Pictures\Screenshots\crm3.png")
+![Call Queue Example]("C:\Users\ericv\OneDrive\Pictures\Screenshots\crm4.png")
+![Edit Contact Full Tab Example]("C:\Users\ericv\OneDrive\Pictures\Screenshots\crm5.png")
