@@ -17,9 +17,10 @@ Architected and deployed a custom Customer Relationship Management (CRM) web app
 * **Data Portability:** Engineered custom import/export functions allowing the client to seamlessly migrate database records to and from Excel.
 
 ## Application Interface (Demo Data)
-<img width="1267" height="579" alt="crm1" src="https://github.com/user-attachments/assets/f2afcc13-9434-431c-9e67-6e437f778a40" />
 <img width="1266" height="578" alt="crm6" src="https://github.com/user-attachments/assets/a2ad9ef9-673e-4dce-93fa-d5d1df55ab96" />
+<img width="1267" height="579" alt="crm1" src="https://github.com/user-attachments/assets/f2afcc13-9434-431c-9e67-6e437f778a40" />
+<img width="1265" height="581" alt="crm2" src="https://github.com/user-attachments/assets/1e6b4944-a416-46f8-9d79-4d622804239e" />
 <img width="1265" height="581" alt="crm3" src="https://github.com/user-attachments/assets/50b4e87e-8d56-4a93-a493-539283213fff" />
 <img width="1265" height="579" alt="crm4" src="https://github.com/user-attachments/assets/14e7daba-241d-4d3f-a1fa-c99a9c7c5319" />
 <img width="878" height="510" alt="crm5" src="https://github.com/user-attachments/assets/41bb8972-fcaf-43c4-b4fc-1744fe36cd31" />
-<img width="1265" height="581" alt="crm2" src="https://github.com/user-attachments/assets/1e6b4944-a416-46f8-9d79-4d622804239e" />
+
