@@ -9,7 +9,7 @@ Architected and deployed a custom Customer Relationship Management (CRM) web app
 * **Frontend:** React.js, JavaScript, CSS
 * **Backend & Database:** Google Firebase (NoSQL)
 * **Authentication:** Firebase Auth (Secure login and role management)
-* **Deployment:** [Insert your hosting platform, e.g., Firebase Hosting]
+* **Deployment:** Firebase Hosting
 
 ## Key Features & Engineering Highlights
 * **Component-Based UI:** Built a highly responsive, state-driven dashboard using React hooks for real-time pipeline health tracking.
